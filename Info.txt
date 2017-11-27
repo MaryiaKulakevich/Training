@@ -1,5 +1,7 @@
 This document contains additional information about the project.
 
-New text was added
+New text was added.
 
-File version 1.2
+Description of a new feature was added.
+
+File version 1.3
